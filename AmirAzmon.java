@@ -4,7 +4,7 @@ public class AmirAzmon{
 	
 		for (int i=1;i<=10; i++) {
 		
-			System.out.println("AmirAzmon ..."+i);
+			System.out.println("AmirAzmon 2 ..."+i);
 			
 		}
 	}
